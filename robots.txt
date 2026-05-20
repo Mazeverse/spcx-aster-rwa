@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aster-spcx-preipo.vercel.app/sitemap.xml
+Sitemap: https://spcx-aster-rwa.vercel.app/sitemap.xml
